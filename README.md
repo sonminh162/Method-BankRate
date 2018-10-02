@@ -1,1 +1,2 @@
 # Method-BankRate
+# BankRate
